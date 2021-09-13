@@ -1,7 +1,7 @@
 # City-layout-genretion
 master project 
 
-link to original GDMC competitors code modified for the building generation: https://drive.google.com/file/d/1FEywsza2haHKBab_tkXLyWiXir_XqcXA/view
+link to original GDMC competitors Troy,Trent & Ryan code modified for the building generation: https://drive.google.com/file/d/1FEywsza2haHKBab_tkXLyWiXir_XqcXA/view
 link for Mcedit: https://github.com/mcgreentn/GDMC
 
 I verify that I am the sole author of the programmes
