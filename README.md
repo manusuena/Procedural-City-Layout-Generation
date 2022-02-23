@@ -1,7 +1,7 @@
 # City-layout-genretion
 master project 
 
-: I took part in this project for my Master Degree as my dissertation. this project 
+I took part in this project for my Master Degree as my dissertation. this project 
 consisted in using python and Mcedti to apply procedural content generation techniques to Minecraft 
 for the generation of more realistic looking settlements that simulate the way real-world settlements 
 are planned by separating the space into districts.
