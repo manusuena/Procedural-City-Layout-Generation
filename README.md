@@ -1,6 +1,11 @@
 # City-layout-genretion
 master project 
 
+: I took part in this project for my Master Degree as my dissertation. this project 
+consisted in using python and Mcedti to apply procedural content generation techniques to Minecraft 
+for the generation of more realistic looking settlements that simulate the way real-world settlements 
+are planned by separating the space into districts.
+
 link to original GDMC competitors Troy,Trent & Ryan code modified for the building generation: https://drive.google.com/file/d/1FEywsza2haHKBab_tkXLyWiXir_XqcXA/view
 link for Mcedit: https://github.com/mcgreentn/GDMC
 
